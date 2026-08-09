@@ -1,0 +1,52 @@
+PRIYA DHARSHINI M
+AI & Data Science Student
+
+EDUCATION
+B.Tech in Artificial Intelligence and Data Science
+XYZ Engineering College
+Expected Graduation: 2027
+
+SKILLS
+Python, C, Java, SQL, Machine Learning, Deep Learning, Data Science,
+NumPy, Pandas, Matplotlib, Scikit-learn, PyTorch, OpenCV, Hadoop,
+HDFS, Hive, Power BI, Git, GitHub
+
+PROJECTS
+
+Smart Travel Planner
+Developed a Python-based travel planning application using Nominatim,
+Overpass API and OSRM API. Implemented attraction scoring, Haversine
+distance calculation, K-Means clustering and day-wise itinerary
+generation.
+
+Campus Wi-Fi Planner
+Developed a network planning application using Python and graph
+algorithms. Implemented Kruskal's Minimum Spanning Tree algorithm
+to determine an efficient network connection between campus buildings.
+
+Student Performance Analytics
+Built a data analytics project using Python, Pandas and Matplotlib
+to analyze student performance and identify patterns in academic data.
+
+Memory Mirror
+Designed an AI-based digital twin concept to support personalized
+memory assistance using artificial intelligence.
+
+EXPERIENCE
+AI/ML Intern
+ABC Technologies
+June 2026 – July 2026
+Worked on data preprocessing, machine learning models and Python-based
+data analysis.
+
+CERTIFICATIONS
+Machine Learning Fundamentals
+Python for Data Science
+Introduction to Internet of Things
+
+ACHIEVEMENTS
+Participated in AI and data science hackathons and technical competitions.
+
+INTERESTS
+Artificial Intelligence, Machine Learning, Computer Vision,
+Generative AI and Data Analytics
